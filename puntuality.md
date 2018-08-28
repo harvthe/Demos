@@ -1,4 +1,7 @@
-# Creating accounts
+# Punctuality checks on Managed file transfer
+the below demo has a quick overview on how to be alerted if files don't arrive on time!
+
+### Creating accounts
 
 `https://api.axway.training/v1/amplifyMFT/onboard`
 
@@ -26,7 +29,9 @@ use the web client to upload files
 [ST client](https://203.48.128.185/)
 > use basic auth and the credentials you created above
 
+## Punctuality checks using the embedded dashboards
 
+[Embedded Analytics](http://203.48.128.183:8081)
 create multiple account file checks through the data integration elements available in the 
 
 07-ST-Configuration space.
